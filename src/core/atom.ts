@@ -4,8 +4,8 @@ import {
   AtomAdapter,
   AtomAdapterParams,
   AtomAsyncAdapterParams,
-} from "src/core/types";
-import { registerEffects } from "src/core/atom-effect";
+} from "./types";
+import { registerEffects } from "./atom-effect";
 
 /**
  * Use defaultStore from Jotai's Providerless mode to mimick

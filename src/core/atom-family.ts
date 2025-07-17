@@ -11,8 +11,8 @@ import {
   GetAtomFamilyAsyncDefaultValue,
   GetAtomFamilyDefaultValue,
   Parameter,
-} from "src/core/types";
-import { registerEffects } from "src/core/atom-effect";
+} from "./types";
+import { registerEffects } from "./atom-effect";
 import { getDefaultStore } from "jotai";
 
 /**

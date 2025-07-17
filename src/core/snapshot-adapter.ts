@@ -1,5 +1,5 @@
 import { Getter } from "jotai";
-import { AtomAdapter, Loadable, Snapshot } from "src/core/types";
+import { AtomAdapter, Loadable, Snapshot } from "./types";
 
 export const getLoadable_factory =
   (get: Getter) =>

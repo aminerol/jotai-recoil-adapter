@@ -1,6 +1,6 @@
 import { getDefaultStore } from "jotai";
-import { AtomAdapter, EffectFn } from "src/core/types";
-import { getLoadable_factory } from "src/core/snapshot-adapter";
+import { AtomAdapter, EffectFn } from "./types";
+import { getLoadable_factory } from "./snapshot-adapter";
 
 /**
  * Use defaultStore from Jotai's Providerless mode to mimick
