@@ -27,7 +27,7 @@
     "noImplicitReturns": false,
     "forceConsistentCasingInFileNames": true
   },
-  "include": ["src"],
+  "include": ["src", "index.ts"],
   "exclude": ["node_modules", "src/__dev__"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
