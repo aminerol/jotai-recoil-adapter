@@ -1,6 +1,6 @@
 {
   "name": "@aminerol/jotai-recoil-adapter",
-  "version": "0.4.1",
+  "version": "0.4.0",
   "description": "Drop-in adapter for migrating to Jotai from Recoil",
   "license": "MIT",
   "keywords": [
